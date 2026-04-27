@@ -18,6 +18,10 @@ based on the market and question type before selecting a framework.
 8. Ansoff Matrix
 9. Bain's Elements of Value
 10. Competitive Positioning Map (Perceptual Map)
+11. AI Moat Framework (AI-Era Competitive Analysis)
+12. 5 C's Analysis (Company, Customers, Competitors, Collaborators, Context)
+13. SWOT Analysis
+14. Strategic Group Mapping
 
 ---
 
@@ -274,6 +278,102 @@ In regulated, accountability-heavy verticals like healthcare:
 
 ---
 
+## 12. 5 C's Analysis
+**Origin:** Marketing strategy curriculum; widely taught at Harvard, Stanford, Wharton
+**Best for:** Holistic situational analysis before running a deeper competitive framework;
+scoping the full context in which competition takes place
+
+Five lenses for understanding a market:
+
+- **Company** — What are your own strengths, weaknesses, capabilities, and strategic position?
+  What resources and assets does your company bring? What are your constraints?
+- **Customers** — Who are the buyers and end users? What are their needs, behaviors, and
+  decision criteria? How are they segmented? What jobs are they trying to do?
+- **Competitors** — Who are the direct and indirect competitors? What are their strategies,
+  strengths, and vulnerabilities? Who is gaining or losing share and why?
+- **Collaborators** — Who are the partners, suppliers, channel partners, and ecosystem players
+  that shape how value is created and delivered? Who do competitors partner with?
+- **Context (Climate)** — What macro forces are shaping the market? (regulatory, economic,
+  technological, social trends) What tailwinds or headwinds apply to all players equally?
+
+**Output:** A structured situational map that surfaces the most important forces before
+selecting a more targeted competitive framework. Particularly useful as a starting point
+when the competitive landscape is unfamiliar or rapidly changing.
+
+**Healthcare RCM application:** Context is especially important here — CMS policy changes,
+payer consolidation, IRA impacts on drug costs, and FHIR/interoperability mandates are
+context-layer forces that shape every competitor's strategy simultaneously.
+
+---
+
+## 13. SWOT Analysis
+**Origin:** Albert Humphrey, Stanford Research Institute (1960s)
+**Best for:** Rapid structured assessment of a single competitor or your own position;
+executive communication; framing strategic options
+
+Four quadrants:
+
+- **Strengths** — Internal advantages: what does this competitor do well? Where do they have
+  durable advantage? (technology, data, brand, relationships, talent, distribution)
+- **Weaknesses** — Internal vulnerabilities: where are they exposed? What do customers
+  complain about? Where are they underinvesting?
+- **Opportunities** — External conditions that favor this competitor: market tailwinds,
+  regulatory changes, customer needs going unmet, competitor exits
+- **Threats** — External forces working against them: new entrants, technology shifts,
+  regulatory risk, customer consolidation, commoditization
+
+**Output:** One-page competitive snapshot per competitor, useful for executive summaries
+and stakeholder communication. Often used as a synthesis layer on top of deeper analysis.
+
+**Usage note:** SWOT is most powerful when grounded in evidence — each cell should cite
+a specific source or observation, not just general impressions. Avoid generic SWOTs that
+could describe any company in the market.
+
+**Competitive application:** Run a SWOT on each major competitor as a synthesis step
+after completing the feature matrix and sentiment gathering. Then run one on your own
+product to identify the most meaningful gaps and overlaps.
+
+---
+
+## 14. Strategic Group Mapping
+**Origin:** Michael Hunt, Harvard Business School (1972); extended by Porter
+**Best for:** Identifying clusters of competitors pursuing similar strategies; finding
+whitespace between groups; understanding mobility barriers
+
+Core concept: not all competitors are equally similar — they cluster into strategic groups
+based on the strategic dimensions they compete on (price, product breadth, distribution
+channel, vertical focus, service model, geography). Companies within a group compete
+more directly with each other than with companies in different groups.
+
+**How to construct a strategic group map:**
+
+1. Identify two strategic dimensions that most differentiate competitors in this market
+   (e.g., breadth of automation vs. depth of EHR integration; price point vs. service
+   model; horizontal vs. vertical focus)
+2. Plot each competitor on a 2x2 or continuous axis map using those dimensions
+3. Draw circles around clusters of companies pursuing similar strategies — the size of
+   the circle can reflect market share
+4. Identify which groups are growing, shrinking, or consolidating
+
+**Key questions the map answers:**
+- Which strategic group are you in, and how crowded is it?
+- Which groups are most profitable? Why?
+- What are the mobility barriers between groups — what would it take to move from one
+  group to another?
+- Is there a whitespace quadrant with no current occupants?
+
+**Output:** Visual map of the competitive landscape organized by strategy rather than
+just product features. Surfaces non-obvious competitive dynamics and clarifies where
+differentiation is truly meaningful vs. marginal.
+
+**Healthcare RCM application:** Strategic groups in RCM often form around dimensions
+like: full-service outsourcing vs. point solution software; hospital/health system focus
+vs. physician group focus; single-specialty vs. multi-specialty; AI-native vs.
+services-led. A competitor in a different strategic group is often less threatening in
+the short term but may represent a future collision course as markets evolve.
+
+---
+
 ## Framework Selection Quick Reference
 
 | Situation | Recommended Framework(s) |
@@ -284,6 +384,9 @@ In regulated, accountability-heavy verticals like healthcare:
 | ICP-level value comparison | Value Proposition Canvas + JTBD |
 | Business model / pricing | Business Model Canvas |
 | Growth strategy prediction | Ansoff Matrix |
-| Executive communication | Perceptual Map |
+| Executive communication | Perceptual Map + SWOT |
 | Enterprise value drivers | Bain's Elements of Value |
 | AI-native competitors present | AI Moat Framework (section 11) — layer on top of any of the above |
+| Unfamiliar or rapidly changing market | 5 C's Analysis — use as starting point before selecting deeper framework |
+| Single competitor deep-dive or exec summary | SWOT Analysis |
+| Identifying clusters and whitespace | Strategic Group Mapping |
