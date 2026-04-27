@@ -1,0 +1,321 @@
+# USER RESEARCH OUTPUT TEMPLATES
+
+## 1. WORD CLOUD ANALYSIS
+**Top 20 Most Frequent Terms:**
+- [Term 1]: [frequency count]
+- [Term 2]: [frequency count]
+- [Term 3]: [frequency count]
+...
+
+**Key Themes Identified:**
+- Theme 1: [description]
+- Theme 2: [description]
+- Theme 3: [description]
+
+**Context Notes:**
+[Any important context about what these terms reveal]
+
+---
+
+## 2. RANKED AND CATEGORIZED PAIN POINTS/CHALLENGES
+
+| Rank | Pain Point | Category | Frequency | Severity (1-5) | Impact on Workflow | User Quotes |
+|------|-----------|----------|-----------|----------------|-------------------|-------------|
+| 1 | [pain point] | [category] | X/Y users | 5 | [High/Med/Low] | "[quote]" |
+| 2 | [pain point] | [category] | X/Y users | 4 | [High/Med/Low] | "[quote]" |
+| 3 | [pain point] | [category] | X/Y users | 4 | [High/Med/Low] | "[quote]" |
+
+**Categories:**
+- Operational/Process
+- Technical/System
+- Financial/Cost
+- Time/Efficiency
+- Compliance/Regulatory
+- Communication/Coordination
+
+---
+
+## 3. PROPENSITY ANALYSIS
+
+| Segment | Urgency to Solve (1-5) | Current Pain Level (1-5) | Budget Availability | Decision Timeline | Propensity Score |
+|---------|----------------------|------------------------|-------------------|------------------|------------------|
+| [Segment A] | 5 | 5 | High | 0-3 months | High |
+| [Segment B] | 4 | 3 | Medium | 3-6 months | Medium |
+| [Segment C] | 2 | 2 | Low | 6+ months | Low |
+
+**Key Indicators:**
+- Active search behavior: [Yes/No with evidence]
+- Workaround fatigue: [description]
+- Executive sponsorship: [level]
+- Failed previous attempts: [number/description]
+
+---
+
+## 4. ICP QUALITIES
+
+**Firmographic Characteristics:**
+- Industry: [specific verticals]
+- Company size: [employee range]
+- Revenue range: [dollar range]
+- Geographic location: [regions]
+- Technology stack: [systems they use]
+
+**Behavioral Characteristics:**
+- Current workflow: [description]
+- Tool usage patterns: [what they use today]
+- Decision-making process: [stakeholders, timeline]
+- Procurement process: [typical buying journey]
+
+**Psychographic Characteristics:**
+- Attitudes toward automation: [description]
+- Risk tolerance: [conservative/moderate/aggressive]
+- Innovation adoption curve: [early adopter/majority/laggard]
+- Key motivators: [what drives decisions]
+
+**Disqualifying Characteristics:**
+- [Factor that makes them NOT a good fit]
+- [Factor that makes them NOT a good fit]
+
+---
+
+## 5. JOBS-TO-BE-DONE FRAMEWORK
+
+**Functional Job:**
+When [situation], I want to [motivation], so I can [expected outcome].
+
+**Example:** When prior authorization requests come in, I want to quickly determine if they'll be approved, so I can schedule patients without delays.
+
+**Emotional Job:**
+- How the user wants to feel: [description]
+- What frustrations they want to avoid: [description]
+
+**Social Job:**
+- How they want to be perceived: [description]
+- What they want to demonstrate to others: [description]
+
+**Job Steps:**
+1. [Define phase] → [Current solution] → [Struggles]
+2. [Locate phase] → [Current solution] → [Struggles]
+3. [Prepare phase] → [Current solution] → [Struggles]
+4. [Confirm phase] → [Current solution] → [Struggles]
+5. [Execute phase] → [Current solution] → [Struggles]
+6. [Monitor phase] → [Current solution] → [Struggles]
+7. [Modify phase] → [Current solution] → [Struggles]
+8. [Conclude phase] → [Current solution] → [Struggles]
+
+**Success Criteria:**
+- [What makes the job "done" from user perspective]
+- [How they measure success]
+
+---
+
+## 6. USER JOURNEY MAP
+
+**Persona:** [Name/Role]
+**Scenario:** [Specific use case]
+
+| Stage | Actions | Touchpoints | Thoughts | Pain Points | Emotions | Opportunities |
+|-------|---------|-------------|----------|-------------|----------|---------------|
+| Awareness | [what they do] | [tools/people] | "[quote]" | [problem] | 😟 [emotion] | [solution opportunity] |
+| Consideration | [what they do] | [tools/people] | "[quote]" | [problem] | 😤 [emotion] | [solution opportunity] |
+| Decision | [what they do] | [tools/people] | "[quote]" | [problem] | 😰 [emotion] | [solution opportunity] |
+| Implementation | [what they do] | [tools/people] | "[quote]" | [problem] | 😓 [emotion] | [solution opportunity] |
+| Usage | [what they do] | [tools/people] | "[quote]" | [problem] | 😫 [emotion] | [solution opportunity] |
+| Resolution | [what they do] | [tools/people] | "[quote]" | [problem] | 😌 [emotion] | [solution opportunity] |
+
+**Key Insights:**
+- Biggest friction point: [stage and description]
+- Most time-consuming stage: [stage and duration]
+- Where automation could help most: [stage and reason]
+
+---
+
+## 7. EFFORT VS. IMPACT MATRIX
+
+```
+        HIGH IMPACT
+            │
+    ┌───────┼───────┐
+    │ QUICK │ MAJOR │
+    │ WINS  │ BETS  │
+Low │───────┼───────│ High
+Effort  │ FILL  │ MONEY │ Effort
+    │ INS   │ PITS  │
+    └───────┼───────┘
+            │
+        LOW IMPACT
+```
+
+**QUICK WINS (Low Effort, High Impact):**
+- [Feature/pain point]: [effort estimate] / [impact estimate]
+- [Feature/pain point]: [effort estimate] / [impact estimate]
+
+**MAJOR BETS (High Effort, High Impact):**
+- [Feature/pain point]: [effort estimate] / [impact estimate]
+- [Feature/pain point]: [effort estimate] / [impact estimate]
+
+**FILL INS (Low Effort, Low Impact):**
+- [Feature/pain point]: [effort estimate] / [impact estimate]
+
+**MONEY PITS (High Effort, Low Impact):**
+- [Feature/pain point]: [effort estimate] / [impact estimate]
+
+**Scoring Criteria:**
+- Effort: [time/resources/complexity - 1-5 scale]
+- Impact: [user value/business value/frequency - 1-5 scale]
+
+---
+
+## 8. WORKAROUNDS AND COMPENSATING BEHAVIORS
+
+| Current Problem | What Users Do Today | Tools/Resources Used | Time Required | Why It Fails | Quote |
+|----------------|-------------------|---------------------|---------------|--------------|-------|
+| [problem] | [manual process] | [Excel, email, etc.] | [X hours/week] | [reason] | "[quote]" |
+| [problem] | [manual process] | [Excel, email, etc.] | [X hours/week] | [reason] | "[quote]" |
+
+**Patterns Observed:**
+- [Common workaround pattern 1]
+- [Common workaround pattern 2]
+- [Common workaround pattern 3]
+
+**MVP Implications:**
+- Users already understand: [what doesn't need explanation]
+- Users already do manually: [what can be automated]
+- Critical integrations: [what systems must connect]
+
+---
+
+## 9. MUST-HAVE VS. NICE-TO-HAVE FEATURES
+
+**Methodology:** [Kano analysis / forced ranking / MoSCoW / etc.]
+
+**MUST-HAVE (Table Stakes):**
+| Feature | % Users Ranking Critical | Without This Feature | Quote |
+|---------|-------------------------|---------------------|--------|
+| [feature] | X% | [deal-breaker? blocker?] | "[quote]" |
+| [feature] | X% | [deal-breaker? blocker?] | "[quote]" |
+
+**PERFORMANCE FEATURES (More = Better):**
+| Feature | % Users Want | Current Satisfaction | Desired State | Quote |
+|---------|--------------|---------------------|---------------|--------|
+| [feature] | X% | [1-5] | [description] | "[quote]" |
+| [feature] | X% | [1-5] | [description] | "[quote]" |
+
+**DELIGHTERS (Unexpected Value):**
+| Feature | Competitive Advantage | User Excitement Level | Quote |
+|---------|---------------------|---------------------|--------|
+| [feature] | [High/Med/Low] | [1-5] | "[quote]" |
+
+**NICE-TO-HAVE (Future Consideration):**
+- [feature]: [why it's lower priority]
+- [feature]: [why it's lower priority]
+
+---
+
+## 10. COMPETITIVE LANDSCAPE INSIGHTS
+
+**Competitor Analysis:**
+
+| Competitor | Users Tried | What Users Like | What Users Dislike | Why They Left/Didn't Buy | Market Gap |
+|-----------|------------|----------------|-------------------|------------------------|------------|
+| [Competitor A] | X/Y users | - [strength 1]<br>- [strength 2] | - [weakness 1]<br>- [weakness 2] | "[quote]" | [opportunity] |
+| [Competitor B] | X/Y users | - [strength 1]<br>- [strength 2] | - [weakness 1]<br>- [weakness 2] | "[quote]" | [opportunity] |
+
+**Competitive Positioning Opportunities:**
+- Feature gap: [what competitors don't offer]
+- Experience gap: [where UX/service falls short]
+- Price/value gap: [over/underpriced segments]
+- Integration gap: [missing connections]
+
+**Switching Barriers:**
+- [What makes it hard to leave current solution]
+- [What would need to be true to switch]
+
+---
+
+## 11. WILLINGNESS-TO-PAY INDICATORS
+
+**Budget Information:**
+| Segment | Current Annual Spend | Budget Authority | Typical Vendor Count | Procurement Cycle | Price Sensitivity |
+|---------|---------------------|-----------------|---------------------|------------------|------------------|
+| [Segment A] | $[range] | [title/level] | [number] | [timeline] | [Low/Med/High] |
+| [Segment B] | $[range] | [title/level] | [number] | [timeline] | [Low/Med/High] |
+
+**Value Perception:**
+- ROI expectation: [X months / X% improvement]
+- Cost of current problem: $[amount] per [timeframe]
+- Alternative solution costs: $[amount] for [solution]
+
+**Pricing Model Preferences:**
+| Model | % Prefer | Reasoning | Concerns |
+|-------|----------|-----------|----------|
+| Per transaction | X% | "[quote]" | "[concern]" |
+| Per user/seat | X% | "[quote]" | "[concern]" |
+| Flat monthly | X% | "[quote]" | "[concern]" |
+| % of savings | X% | "[quote]" | "[concern]" |
+
+**Price Anchors:**
+- Current similar tools: $[amount]
+- Maximum acceptable: $[amount]
+- Ideal price point: $[amount]
+- "Too cheap to be credible": $[amount]
+
+---
+
+## 12. SUCCESS METRICS (USER PERSPECTIVE)
+
+**How Users Define Success:**
+
+**Quantitative Metrics:**
+| Metric | Current State | Acceptable Target | Ideal Target | Measurement Method |
+|--------|--------------|------------------|--------------|-------------------|
+| [Time saved] | [X hours/week] | [Y hours/week] | [Z hours/week] | [how they'd measure] |
+| [Cost reduction] | $[X] | $[Y] | $[Z] | [how they'd measure] |
+| [Error rate] | [X%] | [Y%] | [Z%] | [how they'd measure] |
+| [Throughput] | [X per day] | [Y per day] | [Z per day] | [how they'd measure] |
+
+**Qualitative Metrics:**
+- [What improved experience looks like]: "[quote]"
+- [What changed behavior looks like]: "[quote]"
+- [What organizational impact looks like]: "[quote]"
+
+**Leading Indicators (Early Success Signals):**
+- Week 1: [what they'd expect to see]
+- Month 1: [what they'd expect to see]
+- Quarter 1: [what they'd expect to see]
+
+**Deal-Breaker Thresholds:**
+- Minimum acceptable performance: [description]
+- Maximum acceptable learning curve: [description]
+- Critical reliability requirement: [description]
+
+**Reporting Needs:**
+- Dashboard requirements: [what they need to see]
+- Report frequency: [how often]
+- Stakeholder reporting: [what executives need]
+
+---
+
+## SYNTHESIS TEMPLATE
+
+**Top 3 Insights for MVP Scoping:**
+1. [Insight with supporting data]
+2. [Insight with supporting data]
+3. [Insight with supporting data]
+
+**Recommended MVP Core Features:**
+1. [Feature] - [justification from research]
+2. [Feature] - [justification from research]
+3. [Feature] - [justification from research]
+
+**Features to Defer:**
+- [Feature] - [why not MVP / when to revisit]
+- [Feature] - [why not MVP / when to revisit]
+
+**Open Questions for Product Team:**
+- [Question requiring technical/business validation]
+- [Question requiring technical/business validation]
+
+**Risk Factors:**
+- [Risk identified in research] - [mitigation strategy]
+- [Risk identified in research] - [mitigation strategy]
