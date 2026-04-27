@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Competitive Analysis.md",
+                "file": "skills/sample skill template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Competitive Analysis"
+              "title": "sample skill template"
+            }
+          },
+          {
+            "id": "b69d38412eb5668b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "skills/sample skill template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sample skill template"
             }
           }
         ],
@@ -56,7 +70,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Competitive Analysis.md",
+                "file": "skills/sample skill template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Competitive Analysis"
+              "title": "Backlinks for sample skill template"
             }
           },
           {
@@ -128,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Competitive Analysis.md",
+                "file": "skills/sample skill template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Competitive Analysis"
+              "title": "Outgoing links from sample skill template"
             }
           },
           {
@@ -171,21 +185,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Competitive Analysis.md",
+                "file": "skills/sample skill template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Competitive Analysis"
+              "title": "Outline of sample skill template"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,7 +214,25 @@
   },
   "active": "2d2129992375415f",
   "lastOpenFiles": [
+    "skills/competitive-analysis/user_research_templates.txt",
+    "skills/competitive-analysis/lyrics.txt",
+    "skills/competitive-analysis/Test.txt.rtf",
+    "skills/competitive-analysis/README.md",
+    "skills/competitive-analysis/frameworks.md",
+    "skills/competitive-analysis/SKILL.md",
+    "skills/competitive-analysis/skill.md.skill",
+    "skills/competitive-analysis/competitive-analysis.skill",
+    "skills/Competitive Analysis.md",
+    "skills/competitive-analysis/Competitive Analysis.md",
+    "skills/competitive-analysis",
+    "skills/untitled folder",
+    "skills/competitive-analysis.skill",
+    "skills/sample skill template.md",
+    "skills",
     "README.md",
-    "Competitive Analysis.md"
+    "Untitled.md",
+    "Untitled.base",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
   ]
 }
